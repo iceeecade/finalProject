@@ -1,0 +1,65 @@
+Final Project Report
+Isaac Cade and Maggie Peklo
+Computer Science I, Section 155 N
+May 3rd, 2021
+ 
+	The project we chose to complete for our final project in CSCE 155N was
+the example project in which we had to make a graphical user interface 
+(GUI) plotting x and y coordinates. Our coding process for this project was
+ tedious, and we, quite literally, took the code one line at a time. 
+Throughout the course of working on it, we frequently sought out MATLAB’s 
+resource website to figure out how certain buttons work and how to place 
+certain labels nicely on our GUI. Along with MATLAB’s resources, we found 
+ourselves going back to previous labs and homework assignments to remember 
+how to plot in MATLAB, how to push code through git onto our repository, 
+and how to make GUI buttons. 
+However, most of the code in our project was completed using trial and 
+error. We spent a lot of time debugging our code to figure out what worked 
+and what did not work. Though we had a lot of code, and debugging was time 
+consuming, it was helpful that we had our design process neatly laid out 
+beforehand. We made sure we had our elements matched up and our spacing 
+made for easy readability, so when it was time for us to read through and 
+debug our code, it did not take as long as anticipated. Another challenge 
+we faced in this project was that one of us has a Mac laptop, which made 
+for difficulties using git and pushing code onto the repository. To 
+overcome this challenge, we had met up and worked on the code together and 
+compiled it onto one laptop to pushed it through onto Isaac’s repository. 
+Though this was a complicated way of going about our challenge, it made for 
+a good learning experience since we had to talk through the issues we faced 
+and were able to bounce ideas off each other easily. 
+We chose to complete this project due to time constraints on both of our 
+schedules and for simplicity’s sake. Because we chose to do the given 
+example project, we did not seek project approval from a Learning 
+Assistant. In retrospect, if we had the opportunity to complete this 
+project again, we would have chosen something more applicable to our major, 
+mechanical engineering. One prompt that we would have liked to complete, if 
+time permitted, would be using GUIs to plot thrust curves, as we are both 
+100k, an aerospace club, and are currently using a thrust curve to best 
+determine potential airframes for our rocket engine. Using MATLAB to 
+calculate and plot the necessary data needed to put together a proper curve 
+to run in our flight simulations would have tied together what we are 
+learning in school into a real-world setting. It would have been 
+interesting to see how our project and thrust curve calculated and plotted 
+by our graduate team in 100k would match up, and if we could successfully 
+code a GUI to correctly plot the curve we are using. 
+	Though implementing graphical user interfaces into our code became the 
+entire scope of our project, GUIs prove themselves extremely useful, given 
+that most engineers, and people in general, encounter and use GUIs almost 
+every day. GUIs allow everyday occupations to interact with electronics 
+using graphics, images, and so forth without having to learn how to code 
+everything themselves. Looking specifically at engineering, one way that we 
+will be able to use GUIs to our benefit is like our final project. Using a 
+window, such that we created, to plot data for us or calculate properties 
+of materials will prove itself useful and time efficient in our future 
+careers. With an understanding of GUIs and how they work will allow us to 
+better understand how to be more efficient and successful in our careers 
+because it will allow us to solve problems in more intuitive ways.
+Overall, the example project presented challenges that had to be worked 
+through using MATLAB’s resources, previous knowledge, and our own 
+problem-solving techniques. Given the opportunity to complete this project 
+again, we would have liked to make it more applicable to our major, 
+specifically what we are currently working on in 100k. Using this 
+application to our major makes it easy to see the benefits of GUIs and how 
+they work in everyday life. GUIs ultimately save time and having better 
+knowledge of them and how they work make it possible to overcome technical 
+challenges in our future careers with a sense of creativity.
